@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  width: 90%;
+  margin: auto;
+}
+
+/*--------HEADER-------- */
+.wrapper{
+  background: #DEDFE1;
+
+}
+
+h1{
+  text-align: center;
+
+}
+
+.main-nav ul{
+  list-style: none;
+  text-transform: uppercase;
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+.responsive {
+    width: 100%;
+    max-width: 332px;
+    height: auto;
+}
